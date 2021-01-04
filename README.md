@@ -30,3 +30,7 @@ For the second attempt, I downloaded Marlin 2.0.7.2, and made a configuration fo
 ## Third Attempt
 
 Repeat of second attempt, but in 5v mode, full configuration in the repository.
+
+## Fourth Attempt
+
+I've attempted to flash the firmware that I found [here](https://drive.google.com/drive/folders/1b7cvZN3Leerr4RhY1L1k1eTbTLEeQMPK) after digging around on Creality's own website. but with no seemingly no effect on my issue.
