@@ -25,12 +25,8 @@ I downloaded the bltouch firmware (Release, 14th of Aug/Ender-5 Pro_32bit_Marlin
 
 ## Second Attempt
 
-For the second attempt, I downloaded Marlin 2.0.7.2, and made a configuration for it based upon the example configurations shown for the creality v2 board, as well as mixing in the examples on the BLTouch setup. For this attempt, I didn't setup the BLTouch for 5V mode in this attempt. The configuration files are in the repository [sans 5v mode.](https://github.com/CodingSeaOtter/Mrs-Print-A-Lot/blob/8ec95782e90684b6888592c03dfd3f652ba88494/Configuration_adv.h#L711)
+For the second attempt, I downloaded Marlin 2.0.7.2, and made a configuration for it based upon the example configurations shown for the creality v2 board, as well as mixing in the examples on the BLTouch setup. For this attempt, I didn't setup the BLTouch for 5V mode in this attempt. The configuration files are in the repository sans 5v mode.
 
 ## Third Attempt
 
 Repeat of second attempt, but in 5v mode, full configuration in the repository.
-
-## Fourth Attempt
-
-I've attempted to flash the firmware that I found [here](https://drive.google.com/drive/folders/1b7cvZN3Leerr4RhY1L1k1eTbTLEeQMPK) after digging around on Creality's own website. but with no seemingly no effect on my issue.
